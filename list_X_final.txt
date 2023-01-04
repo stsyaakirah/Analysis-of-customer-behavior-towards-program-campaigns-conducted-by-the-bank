@@ -1,0 +1,1 @@
+["education", "pdays", "duration", "balance", "housing", "default", "poutcome"]

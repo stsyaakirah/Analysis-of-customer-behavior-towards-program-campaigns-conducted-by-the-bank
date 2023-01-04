@@ -1,0 +1,3 @@
+Eda: http://localhost:8501/
+Predict :http://localhost:8501/
+app :http://localhost:8502/
