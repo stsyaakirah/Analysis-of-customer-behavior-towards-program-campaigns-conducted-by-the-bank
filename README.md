@@ -1,2 +1,2 @@
 # Analysis-of-customer-behavior-towards-program-campaigns-conducted-by-the-bank
-Made a project to predict the customer who subscribed the bank's program. The models are  Logistic Regression, SVM, Decision Tree, Random Forest, KNN, and Naïve  Bayes. 
+In this project, 6 models tuning are used to predict the customer who subscribed to the bank's program. The models are  Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbors, and Naïve  Bayes. Best model was a decision tree that was able to minimize the error to predict customers who subscribed to the bank's  program.  
